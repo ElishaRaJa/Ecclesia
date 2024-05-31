@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|e:\\webdev\\ecclesiaarts\\brugen\\ecclesia\\ecclesiaweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|e:\\webdev\\ecclesiaarts\\brugen\\ecclesia\\ecclesiaweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|e:\\webdev\\ecclesiaarts\\brugen\\ecclesia\\ecclesiaweb\\ecclesiaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\ecclesiaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|e:\\webdev\\ecclesiaarts\\brugen\\ecclesia\\ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|e:\\webdev\\ecclesiaarts\\brugen\\ecclesia\\ecclesiaweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|e:\\webdev\\ecclesiaarts\\brugen\\ecclesia\\ecclesiaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EcclesiaWeb",
+              "DocumentMoniker": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\EcclesiaWeb.csproj",
+              "ToolTip": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj",
+              "RelativeToolTip": "EcclesiaWeb\\EcclesiaWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T09:37:14.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EcclesiaWeb\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:03:26.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EcclesiaWeb\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:34:41.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Program.cs",
+              "ToolTip": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\Program.cs",
+              "RelativeToolTip": "EcclesiaWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:52:58.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Models\\Category.cs",
+              "ToolTip": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\Models\\Category.cs",
+              "RelativeToolTip": "EcclesiaWeb\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:17:47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\appsettings.json",
+              "ToolTip": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\appsettings.json",
+              "RelativeToolTip": "EcclesiaWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T09:32:08.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
