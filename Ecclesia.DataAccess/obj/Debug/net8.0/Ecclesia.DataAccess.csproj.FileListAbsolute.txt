@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.sourcelink.json
