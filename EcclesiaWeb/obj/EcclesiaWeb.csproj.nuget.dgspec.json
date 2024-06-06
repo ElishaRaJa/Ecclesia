@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj": {}
+    "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj": {}
   },
   "projects": {
-    "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj": {
+    "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj",
         "projectName": "EcclesiaWeb",
-        "projectPath": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj",
+        "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "E:\\webDev\\EcclesiaArts\\Brugen\\Ecclesia\\EcclesiaWeb\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
