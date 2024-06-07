@@ -74,8 +74,7 @@
               "RelativeToolTip": "Ecclesia.Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:15:21.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T09:15:21.841Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "EcclesiaWeb\\Controllers\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:10:26.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T09:10:26.858Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "EcclesiaWeb\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T09:07:57.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T09:07:57.71Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "EcclesiaWeb\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:04:26.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T09:04:26.091Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "EcclesiaWeb\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAEwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:02:30.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T09:02:30.669Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "EcclesiaWeb\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:00:53.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T09:00:53.223Z"
             },
             {
               "$type": "Document",
@@ -165,21 +159,19 @@
               "RelativeToolTip": "Ecclesia.Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:31:26.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T12:31:26.111Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EcclesiaWeb",
+              "Title": "EcclesiaWeb.csproj",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj",
               "RelativeDocumentMoniker": "EcclesiaWeb\\EcclesiaWeb.csproj",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\EcclesiaWeb.csproj",
               "RelativeToolTip": "EcclesiaWeb\\EcclesiaWeb.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-07T09:00:33.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T09:00:33.197Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "Ecclesia.DataAccess\\Migrations\\20240605091539_AddCategoryTableToDb.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:57:21.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T08:57:21.243Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "Ecclesia.DataAccess\\Migrations\\20240605092019_SeedCategoryTable.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:55:07.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T08:55:07.076Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "Ecclesia.DataAccess\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:53:49.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T08:53:49.942Z"
             }
           ]
         }
