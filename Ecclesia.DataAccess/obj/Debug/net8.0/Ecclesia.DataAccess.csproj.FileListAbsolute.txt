@@ -4,3 +4,17 @@ C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\
 C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.AssemblyInfo.cs
 C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.sourcelink.json
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\bin\Debug\net8.0\Ecclesia.DataAccess.deps.json
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\bin\Debug\net8.0\Ecclesia.DataAccess.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\bin\Debug\net8.0\Ecclesia.DataAccess.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\bin\Debug\net8.0\Ecclesia.DataAccess.pdb
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\bin\Debug\net8.0\Ecclesia.Models.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\bin\Debug\net8.0\Ecclesia.Utility.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\bin\Debug\net8.0\Ecclesia.Models.pdb
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\bin\Debug\net8.0\Ecclesia.Utility.pdb
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DAE89A09.Up2Date
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\refint\Ecclesia.DataAccess.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.pdb
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\Ecclesia.DataAccess.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.DataAccess\obj\Debug\net8.0\ref\Ecclesia.DataAccess.dll

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using EcclesiaWeb.Data;
-using EcclesiaWeb.Models;
+using Ecclesia.DataAccess.Data;
+using Ecclesia.Models;
 
 namespace EcclesiaWeb.Controllers
 {

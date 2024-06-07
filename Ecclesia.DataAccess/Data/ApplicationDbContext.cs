@@ -1,4 +1,4 @@
-﻿using EcclesiaWeb.Models;
+﻿using Ecclesia.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Ecclesia.DataAccess.Data

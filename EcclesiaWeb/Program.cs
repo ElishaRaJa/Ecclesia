@@ -1,4 +1,4 @@
-using EcclesiaWeb.Data;
+using Ecclesia.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
