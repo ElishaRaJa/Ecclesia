@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj": {}
+    "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj": {
+    "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj",
         "projectName": "Ecclesia.DataAccess",
-        "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Jorda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +22,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj": {
-                "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj"
+              "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj": {
+                "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj"
               },
-              "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj": {
-                "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj"
+              "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj": {
+                "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj"
               }
             }
           }
@@ -83,21 +84,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj": {
+    "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj",
         "projectName": "Ecclesia.Models",
-        "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\obj\\",
+        "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj",
+        "packagesPath": "C:\\Users\\Jorda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,6 +106,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -143,21 +145,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj": {
+    "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj",
         "projectName": "Ecclesia.Utility",
-        "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\obj\\",
+        "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj",
+        "packagesPath": "C:\\Users\\Jorda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,6 +167,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -203,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
