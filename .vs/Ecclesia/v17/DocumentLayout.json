@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesiaweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesiaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Program.cs",
-              "RelativeDocumentMoniker": "EcclesiaWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Program.cs",
-              "RelativeToolTip": "EcclesiaWeb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:04:26.091Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Ecclesia.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:26:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:56:34.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeToolTip": "Ecclesia.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T08:50:06.059Z",
               "EditorCaption": ""
@@ -69,10 +94,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EcclesiaWeb\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwGMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:00:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Program.cs",
+              "RelativeToolTip": "EcclesiaWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:04:26.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Ecclesia.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:14:15.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\Repository.cs",
               "RelativeToolTip": "Ecclesia.DataAccess\\Repository\\Repository.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwCgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,54 +145,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "EcclesiaWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "EcclesiaWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAswGcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:00:53.223Z",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:27:29.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T08:56:34.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeToolTip": "Ecclesia.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T08:10:30.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T07:27:29.137Z"
+              "WhenOpened": "2024-06-10T08:10:30.704Z"
             }
           ]
         }
