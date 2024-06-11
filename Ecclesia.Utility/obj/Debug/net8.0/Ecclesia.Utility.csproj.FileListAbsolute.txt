@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\bin\Debug\net8.0\Ecclesia.Utility.deps.json
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\bin\Debug\net8.0\Ecclesia.Utility.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\bin\Debug\net8.0\Ecclesia.Utility.pdb
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.sourcelink.json
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\refint\Ecclesia.Utility.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.pdb
+C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\ref\Ecclesia.Utility.dll

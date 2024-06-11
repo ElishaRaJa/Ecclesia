@@ -135,3 +135,9 @@ C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\obj\Debug\net8.0\refint\E
 C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\obj\Debug\net8.0\EcclesiaWeb.pdb
 C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\obj\Debug\net8.0\EcclesiaWeb.genruntimeconfig.cache
 C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\obj\Debug\net8.0\ref\EcclesiaWeb.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\bin\Debug\net8.0\Ecclesia.DataAccess.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\bin\Debug\net8.0\Ecclesia.Models.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\bin\Debug\net8.0\Ecclesia.Utility.dll
+C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\bin\Debug\net8.0\Ecclesia.DataAccess.pdb
+C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\bin\Debug\net8.0\Ecclesia.Models.pdb
+C:\Users\Student\Documents\GitHub\Ecclesia\EcclesiaWeb\bin\Debug\net8.0\Ecclesia.Utility.pdb
