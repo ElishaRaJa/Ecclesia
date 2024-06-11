@@ -55,7 +55,7 @@ namespace EcclesiaWeb.Controllers
             {
                 return NotFound();
             }
-            Category? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
+            Category? categoryFromDb = _categoryRepo.Get(u=>u.Id == id);
             //Category? categoryFromDb1 = _db.Categories.FirstOrDefault(u=>u.Id==id);
             //Category? categoryFromDb2 = _db.Categories.Where(u=>u.Id==id).FirstOrDefault();
 
@@ -89,7 +89,7 @@ namespace EcclesiaWeb.Controllers
             {
                 return NotFound();
             }
-            Category? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
+            Category? categoryFromDb = _categoryRepo.Get(u=>u.Id == id);
             //Category? categoryFromDb1 = _db.Categories.FirstOrDefault(u=>u.Id==id);
             //Category? categoryFromDb2 = _db.Categories.Where(u=>u.Id==id).FirstOrDefault();
 
@@ -110,7 +110,7 @@ namespace EcclesiaWeb.Controllers
             _categoryRepo.Remove(obj);
             _categoryRepo.Save();
             TempData["success"] = "Category deleted successfully";
-            return RedirectToAction("index");
+            return RedirectToAction("Index");
         }
     }
 }

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Ecclesia.DataAccess.Repository
 {
-    public class CatergoryRepository : Repository<Category>, ICategoryRepository
+    public class CategoryRepository : Repository<Category>, ICategoryRepository
     {
         private ApplicationDbContext _db;
         public CategoryRepository(ApplicationDbContext db) : base(db)
@@ -19,7 +19,7 @@ namespace Ecclesia.DataAccess.Repository
 
         public void Save()
         {
-            throw new NotImplementedException();
+            _db.SaveChanges();
         }
 
         public void Update(Category obj)
