@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Ecclesia.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240612081731_CreateandSeedProductTable")]
-    partial class CreateandSeedProductTable
+    [Migration("20240612151735_ForeignKeyFixandSeed")]
+    partial class ForeignKeyFixandSeed
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -73,12 +73,17 @@ namespace Ecclesia.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ISBN")
                         .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<double>("ListPrice")
@@ -90,41 +95,62 @@ namespace Ecclesia.DataAccess.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CategoryId");
+
                     b.ToTable("Products");
 
                     b.HasData(
                         new
                         {
                             Id = 1,
+                            CategoryId = 3,
                             Description = "Lorem seas at watch the weategres",
                             ISBN = "SWD999999901",
+                            ImageUrl = "sad",
                             ListPrice = 5000.0,
                             Title = "Sea"
                         },
                         new
                         {
                             Id = 2,
+                            CategoryId = 2,
                             Description = "Lorem Fields at watch the weategres loret, toem die . et em Buire",
                             ISBN = "SWD599499201",
+                            ImageUrl = "sada",
                             ListPrice = 8000.0,
                             Title = "Field"
                         },
                         new
                         {
                             Id = 3,
+                            CategoryId = 2,
                             Description = "Lorem Fields at watch the weategres loret, toem die . et em Buire",
                             ISBN = "SWD5942369201",
+                            ImageUrl = "asdas",
                             ListPrice = 18000.0,
                             Title = "Mounatin"
                         },
                         new
                         {
                             Id = 4,
+                            CategoryId = 3,
                             Description = "Lorem Fields at watch the weategres loret, toem die . et em Buire",
                             ISBN = "SWD599499201",
+                            ImageUrl = "asdas",
                             ListPrice = 8000.0,
                             Title = "Field"
                         });
+                });
+
+            modelBuilder.Entity("Ecclesia.Models.Product", b =>
+                {
+                    b.HasOne("Ecclesia.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }
