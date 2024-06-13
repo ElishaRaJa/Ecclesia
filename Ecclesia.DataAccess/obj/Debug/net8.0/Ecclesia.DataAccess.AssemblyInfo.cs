@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecclesia.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb13a283e78589339a058ce1fe345f3c1167e946")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd42bbdf4fae986520187715bf7170fd2fd2a6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecclesia.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecclesia.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
