@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Migrations\\20240612151735_ForeignKeyFixandSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecclesia.DataAccess\\Migrations\\20240612151735_ForeignKeyFixandSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0ADD1FF-916F-41B4-84D6-19B96FC852A0}|Ecclesia.Models\\Ecclesia.Models.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0ADD1FF-916F-41B4-84D6-19B96FC852A0}|Ecclesia.Models\\Ecclesia.Models.csproj|solutionrelative:ecclesia.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\areas\\admin\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\areas\\admin\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240612151735_ForeignKeyFixandSeed.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Migrations\\20240612151735_ForeignKeyFixandSeed.cs",
-              "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Migrations\\20240612151735_ForeignKeyFixandSeed.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Migrations\\20240612151735_ForeignKeyFixandSeed.cs",
-              "RelativeToolTip": "Ecclesia.DataAccess\\Migrations\\20240612151735_ForeignKeyFixandSeed.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBYAAAASAAAA",
+              "Title": "ProductController .cs",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
+              "RelativeToolTip": "EcclesiaWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:17:35.196Z",
+              "WhenOpened": "2024-06-12T15:25:40.02Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Ecclesia.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:43:46.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Product.cs",
-              "RelativeDocumentMoniker": "Ecclesia.Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Product.cs",
-              "RelativeToolTip": "Ecclesia.Models\\Product.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:37:58.614Z"
             }
           ]
         }

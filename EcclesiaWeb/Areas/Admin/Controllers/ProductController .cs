@@ -3,6 +3,7 @@ using Ecclesia.DataAccess.Data;
 using Ecclesia.Models;
 using Ecclesia.DataAccess.Repository.IRepository;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace EcclesiaWeb.Areas.Admin.Controllers
 {
@@ -17,7 +18,7 @@ namespace EcclesiaWeb.Areas.Admin.Controllers
         public IActionResult Index()
         {
             List<Product> objProductList = _unitOfWork.Product.GetAll().ToList();
-
+            IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().ToList();
             return View(objProductList);
         }
 
