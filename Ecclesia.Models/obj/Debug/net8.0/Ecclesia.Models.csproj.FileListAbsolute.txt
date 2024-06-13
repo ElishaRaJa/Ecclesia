@@ -22,3 +22,4 @@ C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\refint\Ecclesia.Models.dll
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\Ecclesia.Models.pdb
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\ref\Ecclesia.Models.dll
+C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\Ecclesia.Models.csproj.AssemblyReference.cache

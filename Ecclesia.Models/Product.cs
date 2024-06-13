@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
 namespace Ecclesia.Models
 {
@@ -14,7 +15,7 @@ namespace Ecclesia.Models
         [Key]
         public int Id { get; set; }
         [Required]
-        public required string Title { get; set; }
+        public string? Title { get; set; }
         public string? Description { get; set; }
         [Required]
         public string? ISBN { get; set; }
@@ -25,8 +26,9 @@ namespace Ecclesia.Models
 
         public int CategoryId { get; set; }
         [ForeignKey("CategoryId")]
+        [ValidateNever]
         public Category? Category { get; set; }
-
+        [ValidateNever]
         public string? ImageUrl { get; set; }
     }
 }

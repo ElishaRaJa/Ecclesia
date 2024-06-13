@@ -4,6 +4,7 @@ using Ecclesia.Models;
 using Ecclesia.DataAccess.Repository.IRepository;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Ecclesia.Models.ViewModels;
 
 namespace EcclesiaWeb.Areas.Admin.Controllers
 {
@@ -28,26 +29,39 @@ namespace EcclesiaWeb.Areas.Admin.Controllers
         //create
         public IActionResult Create()
         {
-            IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
-            {
-                Text = u.Name,
-                Value = u.Id.ToString()
-            });
+            //IEnumerable<SelectListItem> CategoryList = 
             //ViewBag.CategoryList = CategoryList; 
-            ViewData["CategoryList"] = CategoryList;
-            return View();
+            //ViewData["CategoryList"] = CategoryList;
+            ProductVM productVM = new()
+            {
+                CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                }),
+                Product = new Product()
+            };
+            return View(productVM);
         }
         [HttpPost]
-        public IActionResult Create(Product obj)
+        public IActionResult Create(ProductVM productVM)
         {
             if (ModelState.IsValid)
             {
-                _unitOfWork.Product.Add(obj);
+                _unitOfWork.Product.Add(productVM.Product);
                 _unitOfWork.Save();
                 TempData["success"] = "Product created successfully";
                 return RedirectToAction("Index");
             }
-            return View();
+            else
+            {
+                productVM.CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                });
+                return View(productVM);
+            }
         }
 
 

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0ADD1FF-916F-41B4-84D6-19B96FC852A0}|Ecclesia.Models\\Ecclesia.Models.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0ADD1FF-916F-41B4-84D6-19B96FC852A0}|Ecclesia.Models\\Ecclesia.Models.csproj|solutionrelative:ecclesia.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E0ADD1FF-916F-41B4-84D6-19B96FC852A0}|Ecclesia.Models\\Ecclesia.Models.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0ADD1FF-916F-41B4-84D6-19B96FC852A0}|Ecclesia.Models\\Ecclesia.Models.csproj|solutionrelative:ecclesia.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\areas\\admin\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\areas\\admin\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ADD1FF-916F-41B4-84D6-19B96FC852A0}|Ecclesia.Models\\Ecclesia.Models.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0ADD1FF-916F-41B4-84D6-19B96FC852A0}|Ecclesia.Models\\Ecclesia.Models.csproj|solutionrelative:ecclesia.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ecclesia.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Product.cs",
+              "RelativeToolTip": "Ecclesia.Models\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:13:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\ViewModels\\ProductVM.cs",
               "RelativeDocumentMoniker": "Ecclesia.Models\\ViewModels\\ProductVM.cs",
               "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\ViewModels\\ProductVM.cs",
               "RelativeToolTip": "Ecclesia.Models\\ViewModels\\ProductVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T10:31:59.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "EcclesiaWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "EcclesiaWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-13T07:47:40.943Z",
               "EditorCaption": ""
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "EcclesiaWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
               "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
               "RelativeToolTip": "EcclesiaWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAeAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAcwHcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T15:25:40.02Z",
               "EditorCaption": ""
