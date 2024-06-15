@@ -20,7 +20,21 @@ namespace Ecclesia.DataAccess.Repository
 
         public void Update(Product obj)
         {
-            _db.Products.Update(obj);
+            //_db.Products.Update(obj);
+            var objfromDb = _db.Products.FirstOrDefault(u => u.Id == obj.Id);
+            if (objfromDb != null)
+            { 
+                objfromDb.Title = objfromDb.Title;
+                objfromDb.ISBN = objfromDb.ISBN;
+                objfromDb.ListPrice = objfromDb.ListPrice;
+                objfromDb.Description = objfromDb.Description;
+                objfromDb.CategoryId = objfromDb.CategoryId;
+                if(obj.ImageUrl != null)
+                {
+                    objfromDb.ImageUrl = obj.ImageUrl;
+                }
+            }
+
         }
     }
 }

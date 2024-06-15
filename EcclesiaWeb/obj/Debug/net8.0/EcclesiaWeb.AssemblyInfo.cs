@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcclesiaWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74dee06e41945b4163f16c1bc4376334bc0946b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+825b273adb789593d2c351ed1aefe09245d5e3e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcclesiaWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcclesiaWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
