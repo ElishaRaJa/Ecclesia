@@ -122,7 +122,7 @@ namespace EcclesiaWeb.Areas.Admin.Controllers
             return Json(new { data = objProductList });
         }
 
-        [HttpPost]
+        [HttpDelete]
         public IActionResult Delete(int? id)
         {
             if (id == null)
@@ -150,6 +150,7 @@ namespace EcclesiaWeb.Areas.Admin.Controllers
 
             return Json(new { success = true, message = "Product deleted successfully" });
         }
+
 
         #endregion
     }
