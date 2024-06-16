@@ -1,8 +1,40 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Jorda\\.nuget\\packages\\datatables.net-dt\\2.0.8\\contentFiles\\any\\any\\wwwroot\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Jorda\\.nuget\\packages\\datatables.net-dt\\2.0.8\\contentFiles\\any\\any\\wwwroot\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jorda\\.nuget\\packages\\datatables.net-dt\\2.0.8\\contentFiles\\any\\any\\wwwroot\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Jorda\\.nuget\\packages\\datatables.net-dt\\2.0.8\\contentFiles\\any\\any\\wwwroot\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.dataTables.min.js"
+    },
+    {
       "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcclesiaWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\EcclesiaWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
     },
     {
       "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\css\\site.css",
@@ -13,8 +45,8 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\product\\59c0e076-5b0d-4fe6-b9fc-ccd4106dca4e.jpeg",
-      "PackagePath": "staticwebassets\\images\\product\\59c0e076-5b0d-4fe6-b9fc-ccd4106dca4e.jpeg"
+      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\product\\01053ef1-8589-4955-84c1-8720a2b4b26d.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\01053ef1-8589-4955-84c1-8720a2b4b26d.jpeg"
     },
     {
       "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\product\\65fbcf13-fbeb-4b88-aa18-a9955c005d06.jpeg",

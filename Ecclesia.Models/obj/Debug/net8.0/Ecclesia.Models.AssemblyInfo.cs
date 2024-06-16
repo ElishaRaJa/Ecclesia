@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecclesia.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74dee06e41945b4163f16c1bc4376334bc0946b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d327ea3cec535b6f9b1540b3e15f0f60cf0d7387")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecclesia.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecclesia.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

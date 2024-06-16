@@ -13,6 +13,7 @@ C:\Users\Student\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\ref\
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\bin\Debug\net8.0\Ecclesia.Models.deps.json
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\bin\Debug\net8.0\Ecclesia.Models.dll
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\bin\Debug\net8.0\Ecclesia.Models.pdb
+C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\Ecclesia.Models.csproj.AssemblyReference.cache
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\Ecclesia.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\Ecclesia.Models.AssemblyInfoInputs.cache
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\Ecclesia.Models.AssemblyInfo.cs
@@ -22,4 +23,3 @@ C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\refint\Ecclesia.Models.dll
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\Ecclesia.Models.pdb
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\ref\Ecclesia.Models.dll
-C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Models\obj\Debug\net8.0\Ecclesia.Models.csproj.AssemblyReference.cache
