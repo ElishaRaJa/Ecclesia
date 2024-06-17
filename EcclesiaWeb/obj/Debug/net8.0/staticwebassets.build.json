@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bX+qI+EutyaSKhYQ/DPPZE7yoMKov0XV4LbKdKdQuk8=",
+  "Hash": "QLjWVOxiArKB2V0ZxP76WOeDhyFy0qTD+z5FnpCnLrQ=",
   "Source": "EcclesiaWeb",
   "BasePath": "_content/EcclesiaWeb",
   "Mode": "Default",
@@ -243,25 +243,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\product\\01053ef1-8589-4955-84c1-8720a2b4b26d.jpeg",
-      "SourceId": "EcclesiaWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\",
-      "BasePath": "_content/EcclesiaWeb",
-      "RelativePath": "images/product/01053ef1-8589-4955-84c1-8720a2b4b26d.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\01053ef1-8589-4955-84c1-8720a2b4b26d.jpeg"
     },
     {
       "Identity": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\product\\65fbcf13-fbeb-4b88-aa18-a9955c005d06.jpeg",
