@@ -22,3 +22,4 @@ C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\refint\Ecclesia.Utility.dll
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.pdb
 C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\ref\Ecclesia.Utility.dll
+C:\Users\Jorda\OneDrive\Documents\GitHub\Ecclesia\Ecclesia.Utility\obj\Debug\net8.0\Ecclesia.Utility.csproj.AssemblyReference.cache

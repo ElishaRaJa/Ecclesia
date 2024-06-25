@@ -9,10 +9,13 @@ using Microsoft.AspNetCore.Hosting;
 using System.IO;
 using System.Linq;
 using System.Drawing;
+using Ecclesia.Utility;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EcclesiaWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

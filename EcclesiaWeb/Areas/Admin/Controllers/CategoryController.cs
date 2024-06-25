@@ -3,10 +3,14 @@ using Ecclesia.DataAccess.Data;
 using Ecclesia.Models;
 using Ecclesia.DataAccess.Repository.IRepository;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
+using Microsoft.AspNetCore.Authorization;
+using Ecclesia.Utility;
 
 namespace EcclesiaWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

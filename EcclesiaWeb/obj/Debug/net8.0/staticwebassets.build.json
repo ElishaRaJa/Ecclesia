@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tv9DzZTlEkbnUtJCAntyQq9FzkE71d7nCxDD6ltXMTY=",
+  "Hash": "qJkWP0z+LHhfzUe3NsUqts5cnN8cjDsz/8k+V8gE0k4=",
   "Source": "EcclesiaWeb",
   "BasePath": "_content/EcclesiaWeb",
   "Mode": "Default",
@@ -1459,6 +1459,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\f51a899c-867a-473e-9c35-8753debe6d9f.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\regi.jpg",
+      "SourceId": "EcclesiaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\",
+      "BasePath": "_content/EcclesiaWeb",
+      "RelativePath": "images/regi.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\regi.jpg"
     },
     {
       "Identity": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\js\\site.js",

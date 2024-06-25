@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\images\\product\\f51a899c-867a-473e-9c35-8753debe6d9f.jpeg"
     },
     {
+      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\regi.jpg",
+      "PackagePath": "staticwebassets\\images\\regi.jpg"
+    },
+    {
       "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
