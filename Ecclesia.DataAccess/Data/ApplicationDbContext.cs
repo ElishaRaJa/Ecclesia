@@ -1,6 +1,7 @@
 ﻿using Ecclesia.Models;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace Ecclesia.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
@@ -12,6 +13,14 @@ namespace Ecclesia.DataAccess.Data
         }
 
         public DbSet<Category> Categories { get; set; }
+<<<<<<< Updated upstream
+=======
+        public DbSet<Product> Products{ get; set; }
+        public DbSet<ShoppingCart> ShoppingCarts{ get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers{ get; set; }
+        public DbSet<OrderHeader> OrderHeaders{ get; set; }
+        public DbSet<OrderDetail> OrderDetails{ get; set; }
+>>>>>>> Stashed changes
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

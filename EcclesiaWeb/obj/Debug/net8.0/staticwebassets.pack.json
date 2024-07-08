@@ -13,7 +13,15 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+<<<<<<< Updated upstream
       "Id": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\js\\site.js",
+=======
+      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\regi.jpg",
+      "PackagePath": "staticwebassets\\images\\regi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\js\\site.js",
+>>>>>>> Stashed changes
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

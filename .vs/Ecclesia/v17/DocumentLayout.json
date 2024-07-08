@@ -4,13 +4,33 @@
   "Documents": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesia.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C31861-F11F-4ECE-87F2-637DAEA8EF6A}|Ecclesia.DataAccess\\Ecclesia.DataAccess.csproj|solutionrelative:ecclesia.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
+=======
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -62,6 +82,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\student\\documents\\github\\ecclesia\\ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B840D1B3-5B1D-4257-BB12-E5F074365BC8}|Ecclesia.Utility\\Ecclesia.Utility.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesia.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B840D1B3-5B1D-4257-BB12-E5F074365BC8}|Ecclesia.Utility\\Ecclesia.Utility.csproj|solutionrelative:ecclesia.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|c:\\users\\jorda\\onedrive\\documents\\github\\ecclesia\\ecclesiaweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CA7844F-FF9E-44DB-8E3F-2506C41AA4E3}|EcclesiaWeb\\EcclesiaWeb.csproj|solutionrelative:ecclesiaweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -71,7 +103,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 0,
+>>>>>>> Stashed changes
           "Children": [
             {
 <<<<<<< Updated upstream
@@ -81,6 +117,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\CategoryRepository.cs",
@@ -114,11 +151,22 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-05T09:50:43.837Z",
+=======
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeToolTip": "EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T08:03:22.48Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "EcclesiaWeb\\Views\\Category\\Index.cshtml",
@@ -164,10 +212,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T08:50:06.059Z",
+=======
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T08:01:04.073Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 3,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\Repository.cs",
@@ -177,11 +236,23 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T08:40:41.967Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:02:56.458Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< Updated upstream
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\Ecclesia.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "Ecclesia.DataAccess\\Repository\\IRepository\\IRepository.cs",
@@ -190,10 +261,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T08:10:30.704Z",
+=======
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T19:00:15.808Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Controllers\\CategoryController.cs",
@@ -208,10 +290,23 @@
 =======
               "WhenOpened": "2024-05-31T09:03:26.306Z"
 >>>>>>> Stashed changes
+=======
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "EcclesiaWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T07:21:59.229Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_Layout.cshtml",
@@ -232,10 +327,22 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T09:34:41.702Z"
 >>>>>>> Stashed changes
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Program.cs",
+              "RelativeToolTip": "EcclesiaWeb\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:54:43.681Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Program.cs",
@@ -254,10 +361,22 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T09:17:47Z"
+=======
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Ecclesia.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\SD.cs",
+              "RelativeToolTip": "Ecclesia.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:14:46.782Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+<<<<<<< Updated upstream
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\appsettings.json",
               "RelativeDocumentMoniker": "EcclesiaWeb\\appsettings.json",
@@ -270,6 +389,16 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+>>>>>>> Stashed changes
+=======
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EcclesiaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EcclesiaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T18:59:02.46Z"
 >>>>>>> Stashed changes
             }
           ]

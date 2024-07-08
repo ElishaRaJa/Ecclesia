@@ -60,6 +60,52 @@
           }
         }
       },
+<<<<<<< Updated upstream
+=======
+      "Microsoft.AspNetCore.Cryptography.Internal/8.0.6": {
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/8.0.6": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "8.0.6"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.6": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.6",
+          "Microsoft.Extensions.Identity.Stores": "8.0.6"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "assemblyVersion": "8.0.6.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Identity.UI/8.0.6": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Embedded": "8.0.6",
+          "Microsoft.Extensions.Identity.Stores": "8.0.6"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Identity.UI.dll": {
+            "assemblyVersion": "8.0.6.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
+>>>>>>> Stashed changes
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -486,6 +532,51 @@
           }
         }
       },
+<<<<<<< Updated upstream
+=======
+      "Microsoft.Extensions.FileProviders.Abstractions/8.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Embedded/8.0.6": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
+      "Microsoft.Extensions.Identity.Core/8.0.6": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "8.0.6",
+          "Microsoft.Extensions.Logging": "8.0.0",
+          "Microsoft.Extensions.Options": "8.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Identity.Core.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
+      "Microsoft.Extensions.Identity.Stores/8.0.6": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "8.0.0",
+          "Microsoft.Extensions.Identity.Core": "8.0.6",
+          "Microsoft.Extensions.Logging": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Identity.Stores.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
+>>>>>>> Stashed changes
       "Microsoft.Extensions.Logging/8.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "8.0.0",
@@ -510,7 +601,11 @@
           }
         }
       },
+<<<<<<< Updated upstream
       "Microsoft.Extensions.Options/8.0.0": {
+=======
+      "Microsoft.Extensions.Options/8.0.2": {
+>>>>>>> Stashed changes
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
           "Microsoft.Extensions.Primitives": "8.0.0"
@@ -522,6 +617,7 @@
           }
         }
       },
+<<<<<<< Updated upstream
       "Microsoft.Extensions.Primitives/8.0.0": {
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Primitives.dll": {
@@ -530,6 +626,9 @@
           }
         }
       },
+=======
+      "Microsoft.Extensions.Primitives/8.0.0": {},
+>>>>>>> Stashed changes
       "Microsoft.Identity.Client/4.56.0": {
         "dependencies": {
           "Microsoft.IdentityModel.Abstractions": "6.35.0"
@@ -795,6 +894,7 @@
           "System.Security.Principal.Windows": "5.0.0"
         }
       },
+<<<<<<< Updated upstream
       "System.IO.Pipelines/6.0.3": {
         "runtime": {
           "lib/net6.0/System.IO.Pipelines.dll": {
@@ -803,6 +903,9 @@
           }
         }
       },
+=======
+      "System.IO.Pipelines/6.0.3": {},
+>>>>>>> Stashed changes
       "System.Memory/4.5.4": {},
       "System.Memory.Data/1.0.2": {
         "dependencies": {
@@ -923,6 +1026,12 @@
         }
       },
       "Ecclesia.Models/1.0.0": {
+<<<<<<< Updated upstream
+=======
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "8.0.6"
+        },
+>>>>>>> Stashed changes
         "runtime": {
           "Ecclesia.Models.dll": {}
         }
@@ -961,6 +1070,37 @@
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
     },
+<<<<<<< Updated upstream
+=======
+    "Microsoft.AspNetCore.Cryptography.Internal/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bkMu3+COnAodJPoSzzEV7twEE7hP8CF1AZrb9GVmkudE5K3UFyE6BtGeSaUrPngPtnmyDux3Z8pw5Knb/Xm5yA==",
+      "path": "microsoft.aspnetcore.cryptography.internal/8.0.6",
+      "hashPath": "microsoft.aspnetcore.cryptography.internal.8.0.6.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQrh7y2lxpLXQmauGcEo4HfOgfyJTysFPwPY8clFd+I559j89HMYFnpAgUBWs8AmN3IYEtsMhMYTij99IWUQIQ==",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/8.0.6",
+      "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.8.0.6.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KwjToZI3oD4t+t02+pHeoUUhSCWtZYqBjOrt6pclBBAjtbja3QwmBnH5e6PXUjipxHpVyKHkK3Vegu/uy1jWug==",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/8.0.6",
+      "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.8.0.6.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Identity.UI/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+8tMwa8kBm0HrU3ygFZYFD0W2VpwpJRB8rbyC7iLPdxDsnOPsAxcvjkP/J/P4Q+DJWXmbR/pc7kLGiaNs/3zLw==",
+      "path": "microsoft.aspnetcore.identity.ui/8.0.6",
+      "hashPath": "microsoft.aspnetcore.identity.ui.8.0.6.nupkg.sha512"
+    },
+>>>>>>> Stashed changes
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1115,6 +1255,37 @@
       "path": "microsoft.extensions.dependencymodel/8.0.0",
       "hashPath": "microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512"
     },
+<<<<<<< Updated upstream
+=======
+    "Microsoft.Extensions.FileProviders.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZbaMlhJlpisjuWbvXr4LdAst/1XxH3vZ6A0BsgTphZ2L4PGuxRLz7Jr/S7mkAAnOn78Vu0fKhEgNF5JO3zfjqQ==",
+      "path": "microsoft.extensions.fileproviders.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Embedded/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hQlf5+YxiUbKdpaPBf/zdMGItnWF8ai9ToPjeZ6gnxT10V4RGDKvChl5MSdc838+2SRHLAC0cdJwG0+L7dqR0g==",
+      "path": "microsoft.extensions.fileproviders.embedded/8.0.6",
+      "hashPath": "microsoft.extensions.fileproviders.embedded.8.0.6.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Identity.Core/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a9tAy8vVTJnew/imk+pfNiZrjHH6stO4YMhZUs++hmeVCAmjma88rV62rsRO+lFrINR5aqBFvK3kE8MHnGZ+7w==",
+      "path": "microsoft.extensions.identity.core/8.0.6",
+      "hashPath": "microsoft.extensions.identity.core.8.0.6.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Identity.Stores/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KGj7DLvkMYj5HzODDu/OiFIK/a4beU0nwfC/khZnl0uelkOAmo11K5iIFvYBfajLIn2CCbqXR/Wr5lVh8IHvZw==",
+      "path": "microsoft.extensions.identity.stores/8.0.6",
+      "hashPath": "microsoft.extensions.identity.stores.8.0.6.nupkg.sha512"
+    },
+>>>>>>> Stashed changes
     "Microsoft.Extensions.Logging/8.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1129,12 +1300,21 @@
       "path": "microsoft.extensions.logging.abstractions/8.0.0",
       "hashPath": "microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
     },
+<<<<<<< Updated upstream
     "Microsoft.Extensions.Options/8.0.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-JOVOfqpnqlVLUzINQ2fox8evY2SKLYJ3BV8QDe/Jyp21u1T7r45x/R/5QdteURMR5r01GxeJSBBUOCOyaNXA3g==",
       "path": "microsoft.extensions.options/8.0.0",
       "hashPath": "microsoft.extensions.options.8.0.0.nupkg.sha512"
+=======
+    "Microsoft.Extensions.Options/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dWGKvhFybsaZpGmzkGCbNNwBD1rVlWzrZKANLW/CcbFJpCEceMCGzT7zZwHOGBCbwM0SzBuceMj5HN1LKV1QqA==",
+      "path": "microsoft.extensions.options/8.0.2",
+      "hashPath": "microsoft.extensions.options.8.0.2.nupkg.sha512"
+>>>>>>> Stashed changes
     },
     "Microsoft.Extensions.Primitives/8.0.0": {
       "type": "package",

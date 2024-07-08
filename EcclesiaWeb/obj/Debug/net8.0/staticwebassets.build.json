@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "Hash": "QODFSTxxgMrH4NSjkMxWVFI/BnjnT004cs0Lw4RqaP4=",
+=======
+  "Hash": "7YHsV6i8Tk7prRHRK0oZeUZIdGd1q9yvfH3pIIdDsfo=",
+>>>>>>> Stashed changes
   "Source": "EcclesiaWeb",
   "BasePath": "_content/EcclesiaWeb",
   "Mode": "Default",
@@ -93,10 +97,36 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\js\\site.js",
       "SourceId": "EcclesiaWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Student\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\images\\regi.jpg",
+      "SourceId": "EcclesiaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\",
+      "BasePath": "_content/EcclesiaWeb",
+      "RelativePath": "images/regi.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\regi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\js\\site.js",
+      "SourceId": "EcclesiaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\EcclesiaWeb\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EcclesiaWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

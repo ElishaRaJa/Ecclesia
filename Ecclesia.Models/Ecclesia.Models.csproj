@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< Updated upstream
+=======
+  <ItemGroup>
+	  <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="8.0.6" />
+  </ItemGroup>
+
+>>>>>>> Stashed changes
 </Project>

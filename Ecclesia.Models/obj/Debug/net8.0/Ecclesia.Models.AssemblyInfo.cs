@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecclesia.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8210b0d4750ab718d824d1a5e17ae7781daf52b4")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba61721b5ce3a5148f67bc8e7e2e4602fdf7af7d")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("Ecclesia.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecclesia.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -127,6 +127,15 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< Updated upstream
+=======
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+>>>>>>> Stashed changes
           "imports": [
             "net461",
             "net462",
@@ -139,6 +148,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -271,6 +283,21 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.6, )"
+<<<<<<< Updated upstream
+=======
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[45.1.0, )"
+            },
+            "datatables.net-dt": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+>>>>>>> Stashed changes
             }
           },
           "imports": [
